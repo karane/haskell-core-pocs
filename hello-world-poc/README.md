@@ -9,6 +9,5 @@ curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh
 
 ## How to Run
 ```bash
-ghc Main.hs
-./Main
+./run.sh
 ```
