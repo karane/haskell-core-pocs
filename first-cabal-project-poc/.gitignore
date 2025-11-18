@@ -1,0 +1,27 @@
+# Cabal build artifacts
+dist/
+dist-newstyle/
+
+# Cabal sandbox (older Cabal)
+.cabal-sandbox/
+cabal.sandbox.config
+
+# GHC environment files
+.ghc.environment.*
+
+# Stack (if you mix tools)
+.stack-work/
+
+# HLS (Haskell Language Server)
+.hls/
+
+# VSCode
+.vscode/
+
+# Nix
+result/
+*.nix
+
+# OS-generated files
+.DS_Store
+Thumbs.db
